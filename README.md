@@ -1,4 +1,4 @@
-![MasterHead](https://accelerationeconomy.com/wp-content/uploads/2021/06/P5YA1615221670209.jpeg)
+![MasterHead](https://www.collegekickstart.com/images/what-is-data-science-1040x520.jpg)
 <h1 align="center">Hi 👋, I'm Kevser Bahadır</h1>
 <h3 align="center">A passionate data scientist and analyst from Turkey</h3>
 
